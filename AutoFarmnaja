@@ -293,8 +293,8 @@ function RadientPaid:Window(text,maincolor)
   UserTag.TextTransparency = 0
   UserTag.TextXAlignment = Enum.TextXAlignment.Left
 
-  UserName.Text = "Maru x Hub"
-  UserTag.Text = "" .. "UPDATE 0.1.0"
+  UserName.Text = "Salad X Hub"
+  UserTag.Text = "" .. "3.0.0"
 
   ServersHoldFrame.Name = "ServersHoldFrame"
   ServersHoldFrame.Parent = MainFrame
